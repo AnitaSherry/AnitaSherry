@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnitaSherry
+- 👋 Hi, I’m yiheng he (贺宜衡)
 - 👀 I’m interested in NLP, CV
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on a job
