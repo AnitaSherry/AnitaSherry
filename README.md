@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yiheng He (贺宜衡)
-- 👀 I’m interested in NLP, CV
+- 👋 Hi, I’m Yiheng He
+- 👀 I’m interested in NLP, CV, LLM, AIGC, RAG
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on a job
 - 📫 How to reach me 330242232@qq.com
