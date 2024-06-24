@@ -1,11 +1,9 @@
-<p align="center"><a href="https://github.com/AnitaSherry"><img width="80%" alt="Hello, Welcome to my page!" src="![微信图片_20240314165340](https://github.com/AnitaSherry/AnitaSherry/assets/96946615/9fb92c2d-2ecb-428e-9fa3-86256e00c716)
-" /></a></p>
+<p align="center"><a href="https://github.com/AnitaSherry"><img width="80%" alt="Hello, Welcome to my page!" src="./assets/loaf-on-a-job.jpg" /></a></p>
 
 
 <p align="center">
   <a href="https://blog.csdn.net/weixin_46398647?type=blog"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
-  <a href="![b632b17c7ee1f4f1beb48d2115e2743](https://github.com/AnitaSherry/AnitaSherry/assets/96946615/3bb12ad0-7405-4159-aeb7-3a0c76cdc837)
-"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
+  <a href="./assets/wechat.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
     <a href="https://github.com/AnitaSherry"><img width="100px" src="https://img.shields.io/badge/github-ai_winter-blueviolet?logo=Github&github=ai-winter" alt="github"/></a>
  </p>
 
