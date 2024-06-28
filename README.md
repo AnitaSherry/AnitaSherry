@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://blog.csdn.net/weixin_46398647?type=blog"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
+  <a href="https://blog.csdn.net/weixin_46398647?type=blog"><img  width="100px" src="https://img.shields.io/badge/csdn-AnitaSherry-orange?logo=SparkPost&csdn=AnitaSherry" alt="csdn"/></a>
   <a href="./assets/wechat.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-AnitaSherry-brightgreen?logo=WeChat&wechat=AnitaSherry" alt="wechat"/></a>
     <a href="https://github.com/AnitaSherry"><img width="100px" src="https://img.shields.io/badge/github-AnitaSherry-blueviolet?logo=Github&github=AnitaSherry" alt="github"/></a>
  </p>
